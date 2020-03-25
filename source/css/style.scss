@@ -1,1 +1,8 @@
 @import 'vendors/reset.scss';
+
+@import 'blocs/button.scss';
+@import 'blocs/activities.scss';
+
+body {
+  font-family: sans-serif;
+}
